@@ -14,7 +14,7 @@ pip install web3 python-dotenv prompt-toolkit
 2. دانلود و اجرای ربات
 
 ```
-git clone https://github.com/fireroomy/kakrot-farmer/tree/main
+git clone https://github.com/fireroomy/kakrot-farmer
 cd kakarotBot
 ```
 ```
