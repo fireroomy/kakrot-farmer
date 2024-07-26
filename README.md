@@ -15,7 +15,7 @@ pip install web3 python-dotenv prompt-toolkit
 
 ```
 git clone https://github.com/fireroomy/kakrot-farmer
-cd kakarotBot
+cd kakrot-farmer
 ```
 ```
 python3 main.py
