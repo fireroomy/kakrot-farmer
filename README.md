@@ -18,5 +18,5 @@ git clone https://github.com/fireroomy/kakrot-farmer/tree/main
 cd kakarotBot
 ```
 ```
-python main.py
+python3 main.py
 ```
