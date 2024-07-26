@@ -18,5 +18,5 @@ git clone https://github.com/fireroomy/kakrot-farmer
 cd kakrot-farmer
 ```
 ```
-python3 main.py
+python3 main
 ```
